@@ -1,6 +1,3 @@
-# Alunos: Vítor Antônio Silvestre Santos
-#         Kaynan Andrey Hermano Siqueira
-
 from manager import salvar_produtos, campos 
 
 produto = {'nome', 'preço', 'código'}

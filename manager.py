@@ -1,6 +1,3 @@
-# Alunos: Vítor Antônio Silvestre Santos
-#         Kaynan Andrey Hermano Siqueira
-
 import csv
 import os
 
